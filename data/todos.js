@@ -15,6 +15,6 @@ module.exports = [
     
     completed:false,
     todo:'not take shower',
-    user_id: 2
+    user_id: 1
   }
 ];
